@@ -1,3 +1,5 @@
+블로그에서 보기: https://blog.naver.com/nybi123/222737210228
+
 </br>[지우는 소수를 좋아해 - 다익스트라](https://blog.naver.com/nybi123)
 </br>[로드 밸런서 트래픽 예측 - dfs
 ](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222736204368&categoryNo=29&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList)
