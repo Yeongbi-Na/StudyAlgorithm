@@ -1,6 +1,6 @@
 
-알고리즘 공부와 코딩 테스트 준비 with Python<br/>
-백준, 프로그래머스, 소프티어 활용 중
+알고리즘 공부와 코딩 테스트 준비 with Python<br/><br/>
+BOJ,  Softeer,  Programmers 활용 중
 <br/>
 <br/>
 
