@@ -9,4 +9,4 @@
 <br/>[17140](https://blog.naver.com/nybi123/222764555036) 
 <br/>[17779](https://blog.naver.com/nybi123/222765957251)
 <br/>[17780](https://blog.naver.com/nybi123/222767678928)
-<br/>[2615](https://blog.naver.com/nybi123?Redirect=Write&categoryNo=21)
+<br/>[2615](https://blog.naver.com/nybi123/222767784054)
