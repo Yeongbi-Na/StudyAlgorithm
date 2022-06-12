@@ -1,5 +1,5 @@
 
-<h4>문제 번호를 클릭하면 '코드과 설명을 함께 정리한 블로그'로 연결</h4>
+<h4>문제 번호를 클릭하면 '코드와 설명을 정리한 블로그'로 연결</h4>
 </br>
 
 [1461](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222691460870&categoryNo=27&parentCategoryNo=0&viewDate=&currentPage=10&postListTopCurrentPage=1&from=postList)
