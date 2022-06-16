@@ -19,4 +19,4 @@ BOJ,  Softeer,  Programmers 활용 중
 [<h4>KMP 알고리즘](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222695752115&categoryNo=30&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList)
   [<h4>DFS, BFS예제](https://blog.naver.com/nybi123/222694366520)
   [<h4>DFS, BFS, 정렬](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222694292044&categoryNo=30&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList)
- 
+ [<h4> 이분탐색](https://blog.naver.com/nybi123?Redirect=Update&logNo=222774231732)
