@@ -33,3 +33,4 @@
 ](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222720965572&categoryNo=29&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList)</br>[비밀메뉴
 ](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222720708368&categoryNo=29&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList)</br>[플레이 페어 암호
 ](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222720040002&categoryNo=29&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postList)
+[비밀메뉴2](https://blog.naver.com/nybi123/222791185741)
