@@ -11,3 +11,4 @@
 ](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222671003893&categoryNo=28&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList)
 </br>[K번째수
 ](https://blog.naver.com/PostView.naver?blogId=nybi123&logNo=222670095410&categoryNo=28&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList)
+</br>[타겟넘버](https://blog.naver.com/nybi123/222795547764)
