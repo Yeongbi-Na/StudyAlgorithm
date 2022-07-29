@@ -1,5 +1,10 @@
 
 알고리즘 공부와 코딩 테스트 준비 with Python<br/><br/>
+
+↓ 연구소내 코딩 스터디
+
+https://yuralearn.notion.site/67da015b130946de81a359707d38ab69?p=3d4e07ff5f7c4b6aac1e22928326fbbe&pm=s
+
 BOJ,  Softeer,  Programmers 활용 중
 <br/>
 <br/>
