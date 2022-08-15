@@ -25,4 +25,6 @@
 <br/>[19237](https://blog.naver.com/nybi123/222805614566)
 <br/>[19236](https://blog.naver.com/nybi123/222825996049)
 <br/>[23290](https://blog.naver.com/nybi123/222834768116)
-<br/>[23289](https://blog.naver.com/nybi123?Redirect=Write&categoryNo=21)
+<br/>[23289](https://blog.naver.com/nybi123/222847576725)
+<br/>[20061](https://blog.naver.com/nybi123/222848835252)
+
